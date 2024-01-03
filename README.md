@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm R K Sarang</h1>
 <h3 align="center">Proficient in Python, SQL,Excel, Tableau & PowerBI, honed through impactful data analyst internships. Leveraging extensive expertise to drive insightful, data-centric solutions and contribute effectively in analytical environments.</h3>
 
-- 👨‍💻 All of my projects are available at [[https://rksaarang.github.io/rksarang.github.io/](https://rksaarang.github.io/rksarang.github.io/)](https://github.com/rksaarang?tab=repositories)
+- 👨‍💻 All of my projects are available at : https://github.com/rksaarang?tab=repositories
 
 - Mobile: **8075690489**
 
